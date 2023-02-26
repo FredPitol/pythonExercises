@@ -11,4 +11,4 @@ V = 4 / 3 * math.pi * R ** 3
 V = round(V, 1)
 
 # Printing the result
-print(f"The volume of the sphere is: {V: }cm³")
+print(f"The volume of the sphere is: {V: .1f}cm³")
